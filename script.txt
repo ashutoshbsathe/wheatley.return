@@ -1,0 +1,77 @@
+https://theportalwiki.com/wiki/Wheatley_voice_lines
+
+On laptop: Comic Sans MS -- opnai.com/new -- text2real -- "Wheatley from Portal 2" -- Go -- Generated, look around
+
+Before opening the door
+1s -- "Hello? Anyone in there?"
+0s -- "Hello"                 
+
+Turn down laptop lid
+
+Wake-up call
+1s -- "HA!I knew someone was alive in here"
+
+excited animation -- rotating 360 deg and shit
+
+Go to wheatley
+
+Wake-up call
+4s -- "AH! Oh. My. God. You look terribl-- ummm... good. Looking good, actually."
+
+looks here and there
+
+15s -- "Most test subjects do experience some cognitive deterioration after a few months in suspension. Now you've been under for... quite a lot longer, and it's not out of the question that you might have a very minor case of serious brain damage."
+
+stares at camera for a second
+
+5s -- "Do you understand what I'm saying? At all? Does any of this make any sense? Just tell me, 'Yes'."
+
+nods yes
+
+2s -- "Okay, you know what? That's close enough. Just hold tight."
+
+tries to move, fails
+
+Disengagement from rail
+
+2s -- "I can't move, though. That's the problem now."
+
+Secret panel
+
+1s -- "Pick me up. Let's get out of here." 
+
+silence for 2 seconds as he stares right into the camera
+
+1s -- "would you pick me up?"
+
+take camera close to Wheatley
+
+Stalemate resolved
+
+4s -- "Wait, what if this hurts? What if it REALLY hurts? Ohhh, I didn't think of that."
+
+nods no
+
+7s -- "Alright, can't blame me for trying. Okay... New tests, new tests... there's gotta be some tests around here somewhere." "
+
+Go back to laptop, turn the screen on
+
+rotates around in his shell
+
+tries to punch him / pick him up 
+
+Upon Smashing Monitors
+8s -- "Aw. Bless your little primate brain. I'm not actually in the room with you. Am I? Technology. It's complicated. Can't hurt the big god face."
+
+search for how to return on laptop
+
+laptop shuts down automatically
+
+Test Chamber 17
+2s -- "You've probably figured it out by now, but I don't need you anymore."
+
+In the lift
+
+5s -- (needs to be cut, or does it ?) -- "But I'm huge! [laugh turning to maniacal laugh]" 
+
+video shuts off
