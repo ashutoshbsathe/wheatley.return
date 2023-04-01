@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Text2Real</title>
+        <style>
+            html {
+                font-family: “Comic Sans MS”, “Comic Sans”, cursive;
+            }
+            #takeitback {
+                display: none;
+            }
+        </style>
+    </head>
+    <body>
+        <center>
+            <h1>Text2Real by OpenI</h1>
+            <img src="logo.jpg" alt="OpenI logo" style="width:15%""> 
+            <form>
+                <label for="prompt">Prompt</label>
+                <input type="text" name="prompt">
+                <input type="button" value="Submit" id="submit">
+                <input type="button" value="Take it back" id="takeitback">
+            </form>
+        </center>
+        <script>
+            var takeitback = document.getElementById("takeitback");
+            var submit = document.getElementById("submit");
+            submit.onclick = function() {
+                takeitback.style.display = "block";
+            }
+        </script>
+    </body>
+</html>
