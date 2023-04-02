@@ -1,3 +1,20 @@
 https://www.deviantart.com/raidgreg8866/art/Portal-2-Model-pack-for-Blender-910480595
 
 also sphere_laugh
+
+https://blender.stackexchange.com/questions/14330/motion-tracking-what-do-the-graphs-represent-and-how-are-they-useful
+https://docs.blender.org/manual/en/latest/movie_clip/tracking/clip/toolbar/track.html
+https://docs.blender.org/manual/en/latest/movie_clip/tracking/index.html
+https://blender.stackexchange.com/questions/3359/camera-tracking-markers
+https://blender.stackexchange.com/questions/53435/solve-error-high-with-good-track
+https://blender.stackexchange.com/questions/42329/how-can-i-get-better-results-when-doing-camera-motion-tracking/42332#42332
+https://blender.stackexchange.com/questions/53435/solve-error-high-with-good-track/71785#71785
+https://blender.stackexchange.com/a/71785
+https://blenderartists.org/t/bad-track-even-with-a-0-6-average-track-error/616934
+https://blender.stackexchange.com/questions/53435/solve-error-high-with-good-track
+https://www.youtube.com/watch?v=BwwaT2scoP0
+https://github.com/miikapuustinen/blender_autotracker
+https://blender.stackexchange.com/questions/182322/script-to-auto-detect-features-to-track-using-python
+https://github.com/s-leger/blenderTracking
+https://www.youtube.com/watch?v=0ZYOro1rUxw
+https://www.youtube.com/watch?v=xxMI4aT4FQQ
